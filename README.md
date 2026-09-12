@@ -1,17 +1,13 @@
-# Caderno Temático: Docker com NotebookLM
+# Fontes utilizadas
 
-## Sobre o projeto
+1. Docker Desktop
+https://docs.docker.com/desktop/
 
-## Objetivos de estudo
+2. What is a container?
+https://docs.docker.com/get-started/docker-concepts/the-basics/what-is-a-container/
 
-## Por que Docker?
+3. Build and share a containerized application
+https://docs.docker.com/get-started/tutorials/run-an-app/
 
-## Como utilizei o NotebookLM
-
-## Principais aprendizados
-
-## Estrutura do repositório
-
-## Fontes utilizadas
-
-## Reflexão sobre o aprendizado
+4. Docker CLI Cheat Sheet
+https://docs.docker.com/get-started/docker_cheatsheet.pdf
